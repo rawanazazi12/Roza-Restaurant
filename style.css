@@ -1,7 +1,7 @@
 header{
   color:#836f4a;
   background-color: #f5e3c5;
-  height: 165px;
+  height: 190px;
 }
 header h1{
   font-family: broadway;
@@ -12,7 +12,7 @@ header h1{
 }
 header nav{
   padding-bottom:10%;
- font-size: 14px;
+ font-size: 16px;
  font-family:comic sans ms; 
 }
 header nav ul li a {
@@ -21,7 +21,7 @@ header nav ul li a {
 }
 #first {
   background-color:#fff5e4;
-  height:180px ;
+  height:200px ;
   text-align: center;
   margin-left: 3%;
   margin-right: 3%;
@@ -30,13 +30,13 @@ header nav ul li a {
 
 }
 #first h4{
-  font-size: 18px;
+  font-size: 22px;
  padding-top: 30px;
  font-family: Berlin Sans FB;
  color: #836f4a
 }
 #first p {
-  font-size: 15px;
+  font-size: 17px;
   font-family: comic sans ms;
   text-align: center;
   color: #a08350;
@@ -73,7 +73,7 @@ font-size: 20px
 }
 
 #third h5{
-font-size: 15px;
+font-size: 17px;
  font-family: comic sans ms;
  color: #a08350;
 }
