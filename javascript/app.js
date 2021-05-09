@@ -39,5 +39,19 @@ var eatingTimes = function () {
 
 document.write(eatingTimes());
 
+for(var i=0;i<=5;i++){console.log('Hello There');}
 
+while(favouriteFood !=='pizza'&&favouriteFood!=='burger')
+{
+favouriteFood=prompt('Please choose either pizza or burger only'); 
+}
+var eat=prompt('How many times do eat it a month?');
 
+for(var i=0;i<eat;i++)
+{document.write('<img src="https://www.southwestwholesalers.com.au/wp-content/uploads/2018/06/Schweppes-Pepsi-Cans-375ml.jpg" width="100px">');
+
+<<<<<<< HEAD
+=======
+ }
+  
+>>>>>>> 8f8e113976028bd033d365333c22e2b3b49a9b3c
